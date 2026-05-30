@@ -1,0 +1,9 @@
+{
+  "name": "ABRESAN",
+  "description": "مرجع تخصصی تولید و تامین تجهیزات پایپینگ صنعتی، کشاورزی و آبرسانی. پلتفرم هوشمند استعلام قیمت و مشاوره پروژه‌های صنعتی.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
